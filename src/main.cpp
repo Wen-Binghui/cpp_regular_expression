@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    string roughness_str = "0.0";
+    string roughness_str = "01.0";
     string envmapLvl_str = "0.0";
     char buff[256];
     std::cmatch m;
